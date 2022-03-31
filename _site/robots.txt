@@ -1,1 +1,1 @@
-Sitemap: /https://bokemia.com/sitemap.xml
+Sitemap: /sitemap.xml
