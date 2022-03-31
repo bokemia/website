@@ -3,10 +3,10 @@
   <channel>
     <title>Bokemia</title>
     <description>As a lightweight, curated look at my past work and current projects, Bokemia acts as both a portfolio and journal.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Mar 2022 15:57:36 -0400</pubDate>
-    <lastBuildDate>Thu, 31 Mar 2022 15:57:36 -0400</lastBuildDate>
+    <link>https://bokemia.com//</link>
+    <atom:link href="https://bokemia.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 31 Mar 2022 16:22:43 -0400</pubDate>
+    <lastBuildDate>Thu, 31 Mar 2022 16:22:43 -0400</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -45,8 +45,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Apr 2022 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/post004</link>
-        <guid isPermaLink="true">http://localhost:4000/post004</guid>
+        <link>https://bokemia.com//post004</link>
+        <guid isPermaLink="true">https://bokemia.com//post004</guid>
         
         <category>Programming</category>
         
@@ -89,8 +89,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Apr 2022 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/post003</link>
-        <guid isPermaLink="true">http://localhost:4000/post003</guid>
+        <link>https://bokemia.com//post003</link>
+        <guid isPermaLink="true">https://bokemia.com//post003</guid>
         
         <category>Programming</category>
         
@@ -134,8 +134,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Apr 2022 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/post002</link>
-        <guid isPermaLink="true">http://localhost:4000/post002</guid>
+        <link>https://bokemia.com//post002</link>
+        <guid isPermaLink="true">https://bokemia.com//post002</guid>
         
         <category>Programming</category>
         
@@ -165,13 +165,13 @@
 &lt;p&gt;Right now, I’m barely getting started on the project. Current tasks include writing an index, setting up page navigation and customizing the &lt;strong&gt;&amp;lt;head&amp;gt;&lt;/strong&gt; and &lt;strong&gt;&amp;lt;body&amp;gt;&lt;/strong&gt; sections with specific stylesheets for tables and code blocks, such as the &lt;a target=&quot;_blank&quot; href=&quot;https://cdnjs.com/libraries/prism&quot;&gt;Prism syntax highlighter&lt;/a&gt;. Below is an excerpt that shows how I extended my CSS with scripts that are hosted externally.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;!-- CSS Styles --&amp;gt;
-&amp;lt;link href=&quot;/assets/css/style.css&quot; rel=&quot;stylesheet&quot;&amp;gt;
+&amp;lt;link href=&quot;https://bokemia.com//assets/css/style.css&quot; rel=&quot;stylesheet&quot;&amp;gt;
 &amp;lt;link href=&quot;Prism link here&quot; rel=&quot;stylesheet&quot;&amp;gt;
 
 &amp;lt;!-- Javascript Assets --&amp;gt;
-&amp;lt;script src=&quot;/assets/js/jquery-3.2.1.min.js&quot;&amp;gt;&amp;lt;/script&amp;gt;
-&amp;lt;script src=&quot;/assets/js/plugins.js&quot;&amp;gt;&amp;lt;/script&amp;gt;
-&amp;lt;script src=&quot;/assets/js/custom.js&quot;&amp;gt;&amp;lt;/script&amp;gt;
+&amp;lt;script src=&quot;https://bokemia.com//assets/js/jquery-3.2.1.min.js&quot;&amp;gt;&amp;lt;/script&amp;gt;
+&amp;lt;script src=&quot;https://bokemia.com//assets/js/plugins.js&quot;&amp;gt;&amp;lt;/script&amp;gt;
+&amp;lt;script src=&quot;https://bokemia.com//assets/js/custom.js&quot;&amp;gt;&amp;lt;/script&amp;gt;
 &amp;lt;script src=&quot;Prism link here&quot;&amp;gt;&amp;lt;/script&amp;gt;
 &amp;lt;script src=&quot;Prism link here&quot;&amp;gt;&amp;lt;/script&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
@@ -185,8 +185,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Apr 2022 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/post001</link>
-        <guid isPermaLink="true">http://localhost:4000/post001</guid>
+        <link>https://bokemia.com//post001</link>
+        <guid isPermaLink="true">https://bokemia.com//post001</guid>
         
         <category>Programming</category>
         
