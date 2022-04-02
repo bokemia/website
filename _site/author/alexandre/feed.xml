@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator>
   <link href="/author/alexandre/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2022-04-02T16:55:47-04:00</updated>
+  <updated>2022-04-02T17:07:13-04:00</updated>
   <id>/author/alexandre/feed.xml</id>
 
   
@@ -32,8 +32,8 @@
 
   
     <entry>
-      <title type="html">Deployment</title>
-      <link href="/post005" rel="alternate" type="text/html" title="Deployment" />
+      <title type="html">Source deployment</title>
+      <link href="/post005" rel="alternate" type="text/html" title="Source deployment" />
       <published>2022-04-08T00:00:00-04:00</published>
       <updated>2022-04-08T00:00:00-04:00</updated>
       <id>/post005</id>
@@ -181,7 +181,7 @@
   &lt;li&gt;A useable, concise footer&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I’m also learning to write in &lt;a target=&quot;_blank&quot; href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt; for the first time and so far it works extremely well. It’s a fantastic editor specifically designed for writing code and publishing it.&lt;/p&gt;
+&lt;p&gt;I’m also learning to write in &lt;a target=&quot;_blank&quot; href=&quot;https://atom.io/&quot;&gt;&lt;strong&gt;Atom&lt;/strong&gt;&lt;/a&gt; for the first time and so far it works extremely well. It’s a fantastic editor specifically designed for writing code and publishing it.&lt;/p&gt;
 
 &lt;p&gt;Next time, I believe I’ll be ready to wrap up my codebase and begin the actual site production.&lt;/p&gt;
 
@@ -305,7 +305,7 @@
 
 &lt;h2 id=&quot;dont-we-all-have-to-start-somewhere&quot;&gt;Don’t we all have to start somewhere?&lt;/h2&gt;
 
-&lt;p&gt;Right now, I’m barely getting started on the project. Current tasks include writing an index, setting up page navigation and customizing the &lt;strong&gt;&amp;lt;head&amp;gt;&lt;/strong&gt; and &lt;strong&gt;&amp;lt;body&amp;gt;&lt;/strong&gt; sections with specific stylesheets for tables and code blocks, such as the &lt;a target=&quot;_blank&quot; href=&quot;https://cdnjs.com/libraries/prism&quot;&gt;Prism syntax highlighter&lt;/a&gt;. Below is an excerpt that shows how I extended my CSS with scripts that are hosted externally.&lt;/p&gt;
+&lt;p&gt;Right now, I’m barely getting started on the project. Current tasks include writing an index, setting up page navigation and customizing the &lt;strong&gt;&amp;lt;head&amp;gt;&lt;/strong&gt; and &lt;strong&gt;&amp;lt;body&amp;gt;&lt;/strong&gt; sections with specific stylesheets for tables and code blocks, such as the &lt;a target=&quot;_blank&quot; href=&quot;https://cdnjs.com/libraries/prism&quot;&gt;&lt;strong&gt;Prism syntax highlighter&lt;/strong&gt;&lt;/a&gt;. Below is an excerpt that shows how I extended my CSS with scripts that are hosted externally.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;!-- CSS Styles --&amp;gt;
 &amp;lt;link href=&quot;/assets/css/style.css&quot; rel=&quot;stylesheet&quot;&amp;gt;

@@ -5,12 +5,12 @@
     <description>As a lightweight, curated look at my past work and current projects, Bokemia acts as both a portfolio and journal.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Apr 2022 16:55:47 -0400</pubDate>
-    <lastBuildDate>Sat, 02 Apr 2022 16:55:47 -0400</lastBuildDate>
+    <pubDate>Sat, 02 Apr 2022 17:07:13 -0400</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2022 17:07:13 -0400</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
-        <title>Deployment</title>
+        <title>Source deployment</title>
         <description>&lt;p&gt;Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I learned that a website’s build could be hosted easily on &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/&quot;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt; and read about the advantages of doing so over the traditional method of renting a server and deploying it from there.&lt;/p&gt;
 
 &lt;p&gt;The main downside to the long-established option, quite simply, is cost. While not tremendously expensive, we’re still talking about around $120 for the SSL Certificate alone plus $80 for the rental itself. That’s per year, &lt;em&gt;every&lt;/em&gt; year. Also, updates and new content to the site are either handled by FTP or through third-party applications, none of which I like using. On the other hand, hosting on GitHub (or similar venues) is free and pairing it with a service like &lt;a target=&quot;_blank&quot; href=&quot;https://netlify.com/&quot;&gt;&lt;strong&gt;Netlify&lt;/strong&gt;&lt;/a&gt; (which is also free) enables instantaneous, auto-deployment of any new content that’s pushed to the repository. That can be done directly from a command line or simply by dragging files around. And the best part? Netlify provides a free SSL Certificate in the process!&lt;/p&gt;
@@ -113,7 +113,7 @@
   &lt;li&gt;A useable, concise footer&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I’m also learning to write in &lt;a target=&quot;_blank&quot; href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt; for the first time and so far it works extremely well. It’s a fantastic editor specifically designed for writing code and publishing it.&lt;/p&gt;
+&lt;p&gt;I’m also learning to write in &lt;a target=&quot;_blank&quot; href=&quot;https://atom.io/&quot;&gt;&lt;strong&gt;Atom&lt;/strong&gt;&lt;/a&gt; for the first time and so far it works extremely well. It’s a fantastic editor specifically designed for writing code and publishing it.&lt;/p&gt;
 
 &lt;p&gt;Next time, I believe I’ll be ready to wrap up my codebase and begin the actual site production.&lt;/p&gt;
 
@@ -195,7 +195,7 @@
 
 &lt;h2 id=&quot;dont-we-all-have-to-start-somewhere&quot;&gt;Don’t we all have to start somewhere?&lt;/h2&gt;
 
-&lt;p&gt;Right now, I’m barely getting started on the project. Current tasks include writing an index, setting up page navigation and customizing the &lt;strong&gt;&amp;lt;head&amp;gt;&lt;/strong&gt; and &lt;strong&gt;&amp;lt;body&amp;gt;&lt;/strong&gt; sections with specific stylesheets for tables and code blocks, such as the &lt;a target=&quot;_blank&quot; href=&quot;https://cdnjs.com/libraries/prism&quot;&gt;Prism syntax highlighter&lt;/a&gt;. Below is an excerpt that shows how I extended my CSS with scripts that are hosted externally.&lt;/p&gt;
+&lt;p&gt;Right now, I’m barely getting started on the project. Current tasks include writing an index, setting up page navigation and customizing the &lt;strong&gt;&amp;lt;head&amp;gt;&lt;/strong&gt; and &lt;strong&gt;&amp;lt;body&amp;gt;&lt;/strong&gt; sections with specific stylesheets for tables and code blocks, such as the &lt;a target=&quot;_blank&quot; href=&quot;https://cdnjs.com/libraries/prism&quot;&gt;&lt;strong&gt;Prism syntax highlighter&lt;/strong&gt;&lt;/a&gt;. Below is an excerpt that shows how I extended my CSS with scripts that are hosted externally.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;!-- CSS Styles --&amp;gt;
 &amp;lt;link href=&quot;/assets/css/style.css&quot; rel=&quot;stylesheet&quot;&amp;gt;
