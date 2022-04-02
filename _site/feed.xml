@@ -5,17 +5,19 @@
     <description>As a lightweight, curated look at my past work and current projects, Bokemia acts as both a portfolio and journal.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Apr 2022 16:02:25 -0400</pubDate>
-    <lastBuildDate>Fri, 01 Apr 2022 16:02:25 -0400</lastBuildDate>
+    <pubDate>Sat, 02 Apr 2022 16:55:47 -0400</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2022 16:55:47 -0400</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
         <title>Deployment</title>
-        <description>&lt;p&gt;Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I quickly learned that a website’s build could be hosted for free on &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/&quot;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt; and the advantages of doing so over the traditional method of renting a server and deploying updates manually.&lt;/p&gt;
+        <description>&lt;p&gt;Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I learned that a website’s build could be hosted easily on &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/&quot;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt; and read about the advantages of doing so over the traditional method of renting a server and deploying it from there.&lt;/p&gt;
 
-&lt;p&gt;The main downside of the latter option, quite simply, is cost. While not tremendously expensive, we’re still talking about around $120 for the SSL Certificate alone plus $80 for the rental itself. That’s &lt;em&gt;per year&lt;/em&gt;, every year. Also, updates and new content to the site are either handled by FTP or through third-party applications, none of which I like using. On the other hand, hosting on GitHub (or similar venues) is free and pairing it with a service like &lt;a target=&quot;_blank&quot; href=&quot;https://netlify.com/&quot;&gt;&lt;strong&gt;Netlify&lt;/strong&gt;&lt;/a&gt; (which is also free) enables instantaneous, auto-deployment of any new content that’s pushed to the repository. That can be done directly from a command line or simply by dragging new files to the Git upload panel.&lt;/p&gt;
+&lt;p&gt;The main downside to the long-established option, quite simply, is cost. While not tremendously expensive, we’re still talking about around $120 for the SSL Certificate alone plus $80 for the rental itself. That’s per year, &lt;em&gt;every&lt;/em&gt; year. Also, updates and new content to the site are either handled by FTP or through third-party applications, none of which I like using. On the other hand, hosting on GitHub (or similar venues) is free and pairing it with a service like &lt;a target=&quot;_blank&quot; href=&quot;https://netlify.com/&quot;&gt;&lt;strong&gt;Netlify&lt;/strong&gt;&lt;/a&gt; (which is also free) enables instantaneous, auto-deployment of any new content that’s pushed to the repository. That can be done directly from a command line or simply by dragging files around. And the best part? Netlify provides a free SSL Certificate in the process!&lt;/p&gt;
 
 &lt;p&gt;It became a no-brainer overnight; I opted to host and deploy the site that way. The learning curve wasn’t too steep but I did get stumped on a few things. For instance, the distinction between my domain registrar’s DNS nameservers and Netlify’s own DNS system wasn’t obvious to me at first glance and GitHub’s interface felt a little intimidating for a new user. But it all worked out in the end and I am satisfied with the end result, from both production and performance standpoints.&lt;/p&gt;
+
+&lt;p&gt;Now that this undertaking is almost complete, I shall divert my attention back to where it belongs: dusting off my old films and assembling a portfolio.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/images/endpoint.png&quot; /&gt;&lt;/div&gt;
