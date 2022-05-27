@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Avoozl</title>
+        <description>A lightweight wiki-style database focused on personal curation, concise descriptions and minimal tagging.</description>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 27 May 2022 13:30:36 -0400</pubDate>
+        <lastBuildDate>Fri, 27 May 2022 13:30:36 -0400</lastBuildDate>
+        <generator>Jekyll v4.2.2</generator>
+        
+            <item>
+                <title>Digital thunder</title>
+                <description>&lt;p&gt;&lt;span style=&quot;color:#1da1ad&quot;&gt;&lt;strong&gt;Mega Man X3&lt;/strong&gt;&lt;/span&gt; is a 1995 side-scrolling platform game released on the Super Nintendo. It is the third title in the Mega Man X spin-off series and is notable for featuring Zero—a tenacious robot featured in the two previous games—as a playable character.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_05.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-credits-and-release&quot;&gt;💎 Credits and release&lt;/h3&gt;
+&lt;div class=&quot;table-container&quot;&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Director&lt;/td&gt;&lt;td&gt;Keiji Inafune&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Composer&lt;/td&gt;&lt;td&gt;Kinuyo Yamashita&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Developer&lt;/td&gt;&lt;td&gt;Capcom&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Platform&lt;/td&gt;&lt;td&gt;Super Nintendo&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Media&lt;/td&gt;&lt;td&gt;ROM cartridge&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Release date&lt;/td&gt;&lt;td&gt;December 1&lt;sup&gt;st&lt;/sup&gt;, 1995&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/pims/libr_20c.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_20d.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_20e.png&quot; loading=&quot;lazy&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_06.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-logbook&quot;&gt;📜 Logbook&lt;/h3&gt;
+&lt;p&gt;Do you have fond memories or fun trivia to share about this game, its development or its place in history? &lt;a href=&quot;/contribute/&quot;&gt;Do tell!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-cheats-and-tweaks&quot;&gt;🦜 Cheats and tweaks&lt;/h3&gt;
+&lt;p&gt;Here are the contents of my cheat file for this game:&lt;/p&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;cheat0_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;One Hit Kills&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;7E0D3F01+7E0D7F01+7E0DFF01+7E0DBF01+7E137F01+7E133F01+7E0E3F01&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat1_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;God Mode&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;D66F-D4FD&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat2_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Gravity Jump&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat2_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;7E09F608&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat2_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+                <pubDate>Mon, 20 Jun 2022 00:00:00 -0400</pubDate>
+                <link>http://localhost:4000/x3</link>
+                <guid isPermaLink="true">http://localhost:4000/x3</guid>
+                
+                <category>retro</category>
+                
+                <category>snes</category>
+                
+                <category>capcom</category>
+                
+                <category>mega</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Pixel perfect</title>
+                <description>&lt;p&gt;&lt;span style=&quot;color:#1da1ad&quot;&gt;&lt;strong&gt;Mega Man 7&lt;/strong&gt;&lt;/span&gt; is a 1995 side-scrolling platform game released on the Super Nintendo. It is the seventh game in the Mega Man series and is notable for the addition of bolts that the player can find throughout the levels and exchange for items and power-ups at the Cybernetic Support Shop.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_05.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-credits-and-release&quot;&gt;💎 Credits and release&lt;/h3&gt;
+&lt;div class=&quot;table-container&quot;&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Director&lt;/td&gt;&lt;td&gt;Keiji Inafune&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Composer&lt;/td&gt;&lt;td&gt;Yuko Takehara&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Developer&lt;/td&gt;&lt;td&gt;Capcom&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Platform&lt;/td&gt;&lt;td&gt;Super Nintendo&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Media&lt;/td&gt;&lt;td&gt;ROM cartridge&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Release date&lt;/td&gt;&lt;td&gt;March 24&lt;sup&gt;th&lt;/sup&gt;, 1995&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/pims/libr_19c.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_19d.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_19e.png&quot; loading=&quot;lazy&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_06.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-logbook&quot;&gt;📜 Logbook&lt;/h3&gt;
+&lt;p&gt;Do you have fond memories or fun trivia to share about this game, its development or its place in history? &lt;a href=&quot;/contribute/&quot;&gt;Do tell!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-cheats-and-tweaks&quot;&gt;🦜 Cheats and tweaks&lt;/h3&gt;
+&lt;p&gt;Here are the contents of my cheat file for this game:&lt;/p&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;cheat0_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Gravity Jump&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;7E0C1C10&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat1_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;God Mode&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;C971-84A0+6976-57D0&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat2_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;One Hit Kills&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat2_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;40DE-7FD2&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat2_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat3_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Protection from Spikes&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat3_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;697B-5F60&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat3_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+                <pubDate>Sun, 19 Jun 2022 00:00:00 -0400</pubDate>
+                <link>http://localhost:4000/mm7</link>
+                <guid isPermaLink="true">http://localhost:4000/mm7</guid>
+                
+                <category>retro</category>
+                
+                <category>snes</category>
+                
+                <category>capcom</category>
+                
+                <category>mega</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Hot embers</title>
+                <description>&lt;p&gt;&lt;span style=&quot;color:#1da1ad&quot;&gt;&lt;strong&gt;Mega Man X2&lt;/strong&gt;&lt;/span&gt; is a 1994 side-scrolling platform game released on the Super Nintendo. It is the second title in the Mega Man X spin-off series and is notable for introducing an assortment of new power-up upgrades.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_05.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-credits-and-release&quot;&gt;💎 Credits and release&lt;/h3&gt;
+&lt;div class=&quot;table-container&quot;&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Director&lt;/td&gt;&lt;td&gt;Keiji Inafune&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Composer&lt;/td&gt;&lt;td&gt;Yuki Iwai&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Developer&lt;/td&gt;&lt;td&gt;Capcom&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Platform&lt;/td&gt;&lt;td&gt;Super Nintendo&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Media&lt;/td&gt;&lt;td&gt;ROM cartridge&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Release date&lt;/td&gt;&lt;td&gt;December 16&lt;sup&gt;th&lt;/sup&gt;, 1994&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/pims/libr_18c.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_18d.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_18e.png&quot; loading=&quot;lazy&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_06.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-logbook&quot;&gt;📜 Logbook&lt;/h3&gt;
+&lt;p&gt;Do you have fond memories or fun trivia to share about this game, its development or its place in history? &lt;a href=&quot;/contribute/&quot;&gt;Do tell!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-cheats-and-tweaks&quot;&gt;🦜 Cheats and tweaks&lt;/h3&gt;
+&lt;p&gt;Here are the contents of my cheat file for this game:&lt;/p&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;cheat0_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;One Hit Kills&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;7E0DBF01+7E0D3F01+7E0DFF01+7E0D7F01&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat1_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;God Mode&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;D6B0-DD4F&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat2_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Mega Jump&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat2_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;D5C5-6DB8&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat2_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat3_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Protection from Spikes&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat3_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;6D20-074F&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat3_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+                <pubDate>Sat, 18 Jun 2022 00:00:00 -0400</pubDate>
+                <link>http://localhost:4000/x2</link>
+                <guid isPermaLink="true">http://localhost:4000/x2</guid>
+                
+                <category>retro</category>
+                
+                <category>snes</category>
+                
+                <category>capcom</category>
+                
+                <category>mega</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>A cursed Elizabeth</title>
+                <description>&lt;p&gt;&lt;span style=&quot;color:#1da1ad&quot;&gt;&lt;strong&gt;Castlevania Bloodlines&lt;/strong&gt;&lt;/span&gt; is a 1994 side-scrolling platform game released on the Sega Genesis. It is notable for offering the choice of two playable characters and for featuring an evocative musical score.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_05.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-credits-and-release&quot;&gt;💎 Credits and release&lt;/h3&gt;
+&lt;div class=&quot;table-container&quot;&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Director&lt;/td&gt;&lt;td&gt;Takashi Takeda&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Composer&lt;/td&gt;&lt;td&gt;Michiru Yamane&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Developer&lt;/td&gt;&lt;td&gt;Konami&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Platform&lt;/td&gt;&lt;td&gt;Sega Genesis&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Media&lt;/td&gt;&lt;td&gt;ROM cartridge&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Release date&lt;/td&gt;&lt;td&gt;March 18&lt;sup&gt;th&lt;/sup&gt;, 1994&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/pims/libr_17c.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_17d.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_17e.png&quot; loading=&quot;lazy&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_06.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-logbook&quot;&gt;📜 Logbook&lt;/h3&gt;
+&lt;p&gt;Do you have fond memories or fun trivia to share about this game, its development or its place in history? &lt;a href=&quot;/contribute/&quot;&gt;Do tell!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-cheats-and-tweaks&quot;&gt;🦜 Cheats and tweaks&lt;/h3&gt;
+&lt;p&gt;Here are the contents of my cheat file for this game:&lt;/p&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;cheat0_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Master Code&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;CTBT-AA4L&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat1_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;God Mode&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;CJXA-CR5E&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+                <pubDate>Fri, 17 Jun 2022 00:00:00 -0400</pubDate>
+                <link>http://localhost:4000/cvb</link>
+                <guid isPermaLink="true">http://localhost:4000/cvb</guid>
+                
+                <category>retro</category>
+                
+                <category>genesis</category>
+                
+                <category>konami</category>
+                
+                <category>castlevania</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Ten minus two</title>
+                <description>&lt;p&gt;&lt;span style=&quot;color:#1da1ad&quot;&gt;&lt;strong&gt;Mega Man X&lt;/strong&gt;&lt;/span&gt; is a 1993 side-scrolling platform game released on the Super Nintendo. It is the first title in the Mega Man X spin-off series and is notable for its technical design, colourful visuals and electronic rock soundtrack.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_05.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-credits-and-release&quot;&gt;💎 Credits and release&lt;/h3&gt;
+&lt;div class=&quot;table-container&quot;&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Director&lt;/td&gt;&lt;td&gt;Keiji Inafune&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Composer&lt;/td&gt;&lt;td&gt;Yuki Iwai&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Developer&lt;/td&gt;&lt;td&gt;Capcom&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Platform&lt;/td&gt;&lt;td&gt;Super Nintendo&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Media&lt;/td&gt;&lt;td&gt;ROM cartridge&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Release date&lt;/td&gt;&lt;td&gt;December 17&lt;sup&gt;th&lt;/sup&gt;, 1993&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/pims/libr_16c.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_16d.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_16e.png&quot; loading=&quot;lazy&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_06.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-logbook&quot;&gt;📜 Logbook&lt;/h3&gt;
+&lt;p&gt;Do you have fond memories or fun trivia to share about this game, its development or its place in history? &lt;a href=&quot;/contribute/&quot;&gt;Do tell!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-cheats-and-tweaks&quot;&gt;🦜 Cheats and tweaks&lt;/h3&gt;
+&lt;p&gt;Here are the contents of my cheat file for this game:&lt;/p&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;cheat0_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;God Mode&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;D660-1F60&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat1_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Mega Jump&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;D58A-1FBC&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat2_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;One Hit Kills&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat2_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;6DB5-CD97&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat2_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat3_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Protection from Spikes&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat3_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;6DB3-4724&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat3_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+                <pubDate>Thu, 16 Jun 2022 00:00:00 -0400</pubDate>
+                <link>http://localhost:4000/mmx</link>
+                <guid isPermaLink="true">http://localhost:4000/mmx</guid>
+                
+                <category>retro</category>
+                
+                <category>snes</category>
+                
+                <category>capcom</category>
+                
+                <category>mega</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Diamond in the rough</title>
+                <description>&lt;p&gt;&lt;span style=&quot;color:#1da1ad&quot;&gt;&lt;strong&gt;Aladdin&lt;/strong&gt;&lt;/span&gt; is a 1993 side-scrolling platform game released on the Sega Genesis. It is notable for its use of hand-drawn art assets produced by Walt Disney Feature Animation as well as fluid motion and digitized sound effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_05.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-credits-and-release&quot;&gt;💎 Credits and release&lt;/h3&gt;
+&lt;div class=&quot;table-container&quot;&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Director&lt;/td&gt;&lt;td&gt;David Perry&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Composer&lt;/td&gt;&lt;td&gt;Tommy Tallarico&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Developer&lt;/td&gt;&lt;td&gt;Virgin&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Platform&lt;/td&gt;&lt;td&gt;Sega Genesis&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Media&lt;/td&gt;&lt;td&gt;ROM cartridge&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Release date&lt;/td&gt;&lt;td&gt;November 11&lt;sup&gt;th&lt;/sup&gt;, 1993&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/pims/libr_15c.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_15d.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_15e.png&quot; loading=&quot;lazy&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_06.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-logbook&quot;&gt;📜 Logbook&lt;/h3&gt;
+&lt;p&gt;Do you have fond memories or fun trivia to share about this game, its development or its place in history? &lt;a href=&quot;/contribute/&quot;&gt;Do tell!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-cheats-and-tweaks&quot;&gt;🦜 Cheats and tweaks&lt;/h3&gt;
+&lt;p&gt;Here are the contents of my cheat file for this game:&lt;/p&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;cheat0_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;God Mode&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;ADWB-YR98&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+                <pubDate>Wed, 15 Jun 2022 00:00:00 -0400</pubDate>
+                <link>http://localhost:4000/aladdin_genesis</link>
+                <guid isPermaLink="true">http://localhost:4000/aladdin_genesis</guid>
+                
+                <category>retro</category>
+                
+                <category>genesis</category>
+                
+                <category>virgin</category>
+                
+                <category>aladdin</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Rocket flight</title>
+                <description>&lt;p&gt;&lt;span style=&quot;color:#1da1ad&quot;&gt;&lt;strong&gt;Mega Man 6&lt;/strong&gt;&lt;/span&gt; is a 1993 side-scrolling platform game. It is the sixth game in the Mega Man series and the last one released on the Nintendo Entertainment System. In this outing, the robot dog companion, Rush, can be transformed into either a power suit or a jet pack, effectively granting the player special access to otherwise unreachable areas.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_05.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-credits-and-release&quot;&gt;💎 Credits and release&lt;/h3&gt;
+&lt;div class=&quot;table-container&quot;&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Director&lt;/td&gt;&lt;td&gt;Keiji Inafune&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Composer&lt;/td&gt;&lt;td&gt;Yuko Takehara&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Developer&lt;/td&gt;&lt;td&gt;Capcom&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Platform&lt;/td&gt;&lt;td&gt;Nintendo Entertainment System&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Media&lt;/td&gt;&lt;td&gt;ROM cartridge&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Release date&lt;/td&gt;&lt;td&gt;November 5&lt;sup&gt;th&lt;/sup&gt;, 1993&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/pims/libr_14c.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_14d.png&quot; loading=&quot;lazy&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_06.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-logbook&quot;&gt;📜 Logbook&lt;/h3&gt;
+&lt;p&gt;Do you have fond memories or fun trivia to share about this game, its development or its place in history? &lt;a href=&quot;/contribute/&quot;&gt;Do tell!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-cheats-and-tweaks&quot;&gt;🦜 Cheats and tweaks&lt;/h3&gt;
+&lt;p&gt;Here are the contents of my cheat file for this game:&lt;/p&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;cheat0_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Mega Jump&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;064B:08&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat1_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;God Mode&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;EYNAKYEI&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat2_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;One Hit Kills&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat2_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;OXVVXLOU+AEVVUUZA&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat2_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat3_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Protection from Spikes&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat3_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;OXEEOZSX&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat3_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+                <pubDate>Tue, 14 Jun 2022 00:00:00 -0400</pubDate>
+                <link>http://localhost:4000/mm6</link>
+                <guid isPermaLink="true">http://localhost:4000/mm6</guid>
+                
+                <category>retro</category>
+                
+                <category>nes</category>
+                
+                <category>capcom</category>
+                
+                <category>mega</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>The sunset rider</title>
+                <description>&lt;p&gt;&lt;span style=&quot;color:#1da1ad&quot;&gt;&lt;strong&gt;Shinobi III&lt;/strong&gt;&lt;/span&gt; is a 1993 side-scrolling platform game released on the Sega Genesis. It is acclaimed for its graceful music score and the quality of its presentation. While a modest commercial success upon release, it has since been positively appraised and highly regarded as a classic of its time and era.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_05.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-credits-and-release&quot;&gt;💎 Credits and release&lt;/h3&gt;
+&lt;div class=&quot;table-container&quot;&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Director&lt;/td&gt;&lt;td&gt;Tomoyuki Ito&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Composer&lt;/td&gt;&lt;td&gt;Hirofumi Murasaki&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Developer&lt;/td&gt;&lt;td&gt;Sega&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Platform&lt;/td&gt;&lt;td&gt;Sega Genesis&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Media&lt;/td&gt;&lt;td&gt;ROM cartridge&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Release date&lt;/td&gt;&lt;td&gt;August 22&lt;sup&gt;nd&lt;/sup&gt;, 1993&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/pims/libr_13c.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_13d.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_13e.png&quot; loading=&quot;lazy&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_06.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-logbook&quot;&gt;📜 Logbook&lt;/h3&gt;
+&lt;p&gt;Do you have fond memories or fun trivia to share about this game, its development or its place in history? &lt;a href=&quot;/contribute/&quot;&gt;Do tell!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-cheats-and-tweaks&quot;&gt;🦜 Cheats and tweaks&lt;/h3&gt;
+&lt;p&gt;Here are the contents of my cheat file for this game:&lt;/p&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;cheat0_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;God Mode&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;G58T-CA5W+AJHT-EA4J&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+                <pubDate>Mon, 13 Jun 2022 00:00:00 -0400</pubDate>
+                <link>http://localhost:4000/shinobi</link>
+                <guid isPermaLink="true">http://localhost:4000/shinobi</guid>
+                
+                <category>retro</category>
+                
+                <category>genesis</category>
+                
+                <category>sega</category>
+                
+                <category>shinobi</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Where the wind blows</title>
+                <description>&lt;p&gt;&lt;span style=&quot;color:#1da1ad&quot;&gt;&lt;strong&gt;Mega Man 5&lt;/strong&gt;&lt;/span&gt; is a 1992 side-scrolling platform game released on the Nintendo Entertainment System. It is the fifth game in the Mega Man series and is notable for the addition of Beat, a robot bird companion that can be unlocked by collecting circuit boards scattered throughout the levels.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_05.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-credits-and-release&quot;&gt;💎 Credits and release&lt;/h3&gt;
+&lt;div class=&quot;table-container&quot;&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Director&lt;/td&gt;&lt;td&gt;Keiji Inafune&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Composer&lt;/td&gt;&lt;td&gt;Mari Yamaguchi&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Developer&lt;/td&gt;&lt;td&gt;Capcom&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Platform&lt;/td&gt;&lt;td&gt;Nintendo Entertainment System&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Media&lt;/td&gt;&lt;td&gt;ROM cartridge&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Release date&lt;/td&gt;&lt;td&gt;December 4&lt;sup&gt;th&lt;/sup&gt;, 1992&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/pims/libr_12c.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_12d.png&quot; loading=&quot;lazy&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_06.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-logbook&quot;&gt;📜 Logbook&lt;/h3&gt;
+&lt;p&gt;Do you have fond memories or fun trivia to share about this game, its development or its place in history? &lt;a href=&quot;/contribute/&quot;&gt;Do tell!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-cheats-and-tweaks&quot;&gt;🦜 Cheats and tweaks&lt;/h3&gt;
+&lt;p&gt;Here are the contents of my cheat file for this game:&lt;/p&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;cheat0_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;God Mode&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;ESKATZEY&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat1_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Mega Jump&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;YEXETAIA+ONUELEUN&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat2_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;One Hit Kills&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat2_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;AEUAZOIZ&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat2_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat3_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Protection from Spikes&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat3_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;SAKEZAIA&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat3_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+                <pubDate>Sun, 12 Jun 2022 00:00:00 -0400</pubDate>
+                <link>http://localhost:4000/mm5</link>
+                <guid isPermaLink="true">http://localhost:4000/mm5</guid>
+                
+                <category>retro</category>
+                
+                <category>nes</category>
+                
+                <category>capcom</category>
+                
+                <category>mega</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Pyramid pathfinder</title>
+                <description>&lt;p&gt;&lt;span style=&quot;color:#1da1ad&quot;&gt;&lt;strong&gt;Mega Man 4&lt;/strong&gt;&lt;/span&gt; is a 1991 side-scrolling platform game released on the Nintendo Entertainment System. It is the fourth game in the Mega Man series and is notable for the addition of the Mega Buster—a powerful weapon shot that the player can charge and release onto their opponents.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_05.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-credits-and-release&quot;&gt;💎 Credits and release&lt;/h3&gt;
+&lt;div class=&quot;table-container&quot;&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Director&lt;/td&gt;&lt;td&gt;Keiji Inafune&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Composer&lt;/td&gt;&lt;td&gt;Yasuaki Fujita&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Developer&lt;/td&gt;&lt;td&gt;Capcom&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Platform&lt;/td&gt;&lt;td&gt;Nintendo Entertainment System&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Media&lt;/td&gt;&lt;td&gt;ROM cartridge&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Release date&lt;/td&gt;&lt;td&gt;December 6&lt;sup&gt;th&lt;/sup&gt;, 1991&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/pims/libr_11c.png&quot; loading=&quot;lazy&quot; /&gt;
+    &lt;img src=&quot;/images/pims/libr_11d.png&quot; loading=&quot;lazy&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/images/Flower_06.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-logbook&quot;&gt;📜 Logbook&lt;/h3&gt;
+&lt;p&gt;Do you have fond memories or fun trivia to share about this game, its development or its place in history? &lt;a href=&quot;/contribute/&quot;&gt;Do tell!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;-cheats-and-tweaks&quot;&gt;🦜 Cheats and tweaks&lt;/h3&gt;
+&lt;p&gt;Here are the contents of my cheat file for this game:&lt;/p&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;cheat0_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Fly Mode&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;AUNELEEG+OAEEYPXA+GZUALPEP&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat0_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat1_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;God Mode&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;ENUEPPEI&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat1_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat2_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Mega Jump&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat2_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;AAKEYPIE&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat2_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat3_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;One Hit Kills&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat3_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;EPUALLEL&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat3_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;cheat4_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Protection from Spikes&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat4_code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;AIEEYAEI&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;cheat4_enable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+                <pubDate>Sat, 11 Jun 2022 00:00:00 -0400</pubDate>
+                <link>http://localhost:4000/mm4</link>
+                <guid isPermaLink="true">http://localhost:4000/mm4</guid>
+                
+                <category>retro</category>
+                
+                <category>nes</category>
+                
+                <category>capcom</category>
+                
+                <category>mega</category>
+                
+                
+            </item>
+        
+    </channel>
+</rss>
