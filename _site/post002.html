@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+        <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>No cookies | Bokemia</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="No cookies" />
+<meta name="author" content="Alexandre Giroux" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Today, I’d like to share my intention of not allowing cookies of any kind on my site and here’s the reasoning behind it." />
+<meta property="og:description" content="Today, I’d like to share my intention of not allowing cookies of any kind on my site and here’s the reasoning behind it." />
+<link rel="canonical" href="http://localhost:4000/post002" />
+<meta property="og:url" content="http://localhost:4000/post002" />
+<meta property="og:site_name" content="Bokemia" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-04-05T00:00:00-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="No cookies" />
+<meta name="twitter:site" content="@" />
+<meta name="twitter:creator" content="@Alexandre Giroux" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Alexandre Giroux","url":"bokemia.com"},"dateModified":"2022-04-05T00:00:00-04:00","datePublished":"2022-04-05T00:00:00-04:00","description":"Today, I’d like to share my intention of not allowing cookies of any kind on my site and here’s the reasoning behind it.","headline":"No cookies","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/post002"},"url":"http://localhost:4000/post002"}</script>
+<!-- End Jekyll SEO tag -->
+
+    
+
+    <!-- Site Favicon -->
+    <link rel="shortcut icon" href="http://localhost:4000/assets/images/favicon.ico" type="image/png" />
+
+    <!-- Font Embed Code -->
+    <link href="//fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic%7CPlayfair+Display:400,400italic,700,700italic" rel="stylesheet" type="text/css" />
+
+    <!-- CSS Styles -->
+    <link href="/assets/css/style.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.27.0/themes/prism-tomorrow.min.css" rel="stylesheet">
+
+</head>
+
+<body class="home-template">
+
+    <div id="page" class="site">
+
+        
+        <header class="site-header">
+
+    
+    <h1 class="site-title"><a href="/" rel="home">Bokemia</a></h1>
+    
+
+    <a class="sidebar-toggle">
+        <span class="screen-reader-text">Menu and Widgets</span>
+        <span class="icon" aria-hidden="true"></span>
+    </a>
+
+</header><!-- .site-header -->
+        
+        
+
+        <main class="site-main">
+    <div class="site-content">
+
+        <article class="post-template">
+
+            <header class="cover post-header">
+
+                
+                <div class="cover-bg" style="background-image: url(assets/images/posts/2022/2.jpg)">
+                </div>
+                
+                <div class="cover-content">
+                    <div class="inner">
+
+                        
+                        <div class="tag-links">
+                             
+                            <a href='tag/programming/'>Programming</a>
+                            
+                             
+                            <a href='tag/development/'>Development</a>
+                            
+                             
+                            <a href='tag/jekyll/'>Jekyll</a>
+                            
+                             
+                            <a href='tag/html/'>HTML</a>
+                            
+                             
+                            <a href='tag/javascript/'>JavaScript</a>
+                            
+                             
+                            <a href='tag/css/'>CSS</a>
+                            
+                            
+                        </div><!-- .tag-links -->
+                        
+
+                        <h1 class="post-title">No cookies</h1>
+
+                        <div class="post-meta">
+                            <span class="post-meta-wrap">
+
+                                
+                                
+
+                                
+                                <img class="author-avatar" src="/assets/images/alexandre.jpg"
+                                    alt="alexandre">
+                                
+
+                                <span class="post-author"><a href="/author/alexandre/">Alexandre Giroux</a></span>
+                                
+                                
+
+                                <time class="published" datetime="2022-04-05">
+                                    April 5, 2022
+                                </time>
+                            </span>
+                        </div><!-- .post-meta -->
+
+                        <a href="#" class="arrow-down"><span class="screen-reader-text">Scroll Down</span></a>
+                    </div><!-- .inner -->
+                </div><!-- .cover-content -->
+
+            </header><!-- .cover -->
+
+
+            <div class="inner">
+            <div class="post-content">
+                <p>Today, I’d like to share my intention of not allowing cookies of any kind on my site and here’s the reasoning behind it.</p>
+
+<p>Now, cookies aren’t inherently bad and usually require the user’s permission to function properly anyway, if at all—by storing an identifier within the browser’s cache—so I won’t try to convince anyone that they should avoid them like the plague. In other words, in many cases they are useful.</p>
+
+<p>But their presence can also be very annoying when they trigger pop-up messages over the content you’re trying to read. And when a page feels like it would perform better without them, or when they effectively do more harm than good, then the page shouldn’t prompt any to begin with. The use of tracking cookies, the worst offender of them all, can lead to all kinds of privacy issues for visitors. Showing a disclaimer does nothing to advise of potential dangers and no amount of corporate legal bullshit we tell ourselves will change that. That’s my general sentiment, anyway.</p>
+
+<p>And as the modern web’s automation is becoming increasingly dominant, I try to remind myself that the user’s prerogative is—and always should be—front and centre.</p>
+
+<p>I’ve also been busy with borders and padding these past few days. I’ve just learned of <strong>Bootstrap Wells</strong>, which is a class specifically designed for them. I was struggling with attributing a given space between some buttons or general interface elements. It turns out I wasn’t using the right syntax order at all. For some reason, <strong>min-height</strong> must be assigned first in the code block, otherwise it won’t do anything. I’m not sure how I’ve missed this as it’s thoroughly documented everywhere. At any rate, here’s what finally worked.</p>
+
+<pre><code class="language-markup">.well {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #e3e3e3;
+  border-radius: $border-radius;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+</code></pre>
+<p><br /></p>
+<div style="text-align: center"><img src="/assets/images/endpoint.png" /></div>
+<p><br /></p>
+
+            </div>
+
+            
+
+            </div><!-- .inner -->
+        </article>
+
+        <nav class="post-navigation">
+
+    <h2 class="screen-reader-text">Post navigation</h2>
+    <div class="nav-links">
+
+        
+        <a href="/post003" class="nav-next">
+
+            
+            <div class="nav-bg" style="background-image: url(assets/images/posts/2022/3.jpg)"></div>
+            
+
+            <div class="nav-inside">
+                <span class="nav-before">Next</span><span class="nav-title">Courtesy delivery</span><span
+                    class="nav-date">April 6, 2022</span>
+            </div>
+
+        </a>
+        
+
+        
+        <a href="/post001" class="nav-previous">
+
+            
+            <div class="nav-bg" style="background-image: url(assets/images/posts/2022/1.jpg)"></div>
+            
+
+            <div class="nav-inside">
+                <span class="nav-before">Previous</span>
+                <span class="nav-title">A new beginning</span>
+                <span class="nav-date">April 4, 2022</span>
+            </div>
+
+        </a>
+        
+
+    </div><!-- .nav-links-->
+</nav><!-- .post-navigation -->
+
+    </div><!-- .site-content -->
+</main><!-- .site-main -->
+
+
+        
+
+        <aside class="sidebar">
+	<div class="sidebar-scrollable">
+		<div class="inner">
+			<div class="widget-area">
+
+				<nav class="site-navigation">
+					<h2>Main Sections</h2>
+					<ul class="menu">
+						
+							<li class="menu-item"><a href="/about">About</a></li>
+						
+							<li class="menu-item"><a href="/portfolio">Portfolio</a></li>
+						
+							<li class="menu-item"><a href="/contact">Contact me</a></li>
+						
+							<li class="menu-item"><a href="/attributions">Attributions</a></li>
+						
+							<li class="menu-item"><a href="/privacy">Data & Privacy</a></li>
+						
+					</ul>
+				</nav>
+
+				
+<section class="widget widget-text">
+    <h2 class="widget-title">About Bokemia</h2>
+    <p>As a lightweight, curated look at my past work and current projects, Bokemia acts as both a portfolio and journal.</p>
+</section>
+
+
+<!-- Create a sorted array of tags -->
+ 
+<section class="widget widget-tags">
+    <h2 class="widget-title">Tags</h2>
+    <div class="tagcloud">
+        
+        <a class="button" href='//localhost:4000/tag/css/'>CSS
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+        <a class="button" href='//localhost:4000/tag/development/'>Development
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+        <a class="button" href='//localhost:4000/tag/html/'>HTML
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+        <a class="button" href='//localhost:4000/tag/javascript/'>JavaScript
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+        <a class="button" href='//localhost:4000/tag/jekyll/'>Jekyll
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+        <a class="button" href='//localhost:4000/tag/programming/'>Programming
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+    </div>
+</section>
+
+
+			</div><!-- .widget-area -->
+			<a class="sidebar-toggle">
+				<span class="screen-reader-text">Close</span>
+				<span class="icon" aria-hidden="true"></span>
+			</a>
+		</div><!-- .inner -->
+	</div><!-- .sidebar-scrollable -->
+</aside><!-- .sidebar -->
+
+        <footer class="site-footer">
+    <div class="inner">
+
+        <div class="offsite-links">
+
+    <a href="https://vimeo.com/bokemia" class="circle" target="_blank">
+        <i class="icon-vimeo" aria-hidden="true"></i>
+        <span class="screen-reader-text">Vimeo</span>
+    </a>
+
+    
+    <a href="https://linkedin.com/in/4giroux" class="circle" target="_blank">
+        <i class="icon-linkedin" aria-hidden="true"></i>
+        <span class="screen-reader-text">Linkedin</span>
+    </a>
+    
+
+    
+    <a href="https://github.com/bokemia" class="circle" target="_blank">
+        <i class="icon-github" aria-hidden="true"></i>
+        <span class="screen-reader-text">GitHub</span>
+    </a>
+    
+
+</div><!-- .offsite-links -->
+
+        <div class="site-info">
+            <figure class="kg-card kg-image-card">
+    <img src="/assets/images/footer.png" alt=""/>
+    
+</figure>
+
+            <a href="/about/">About 💠</a> <a href="/portfolio/"> Portfolio 💠</a>
+            <a href="/contact/">Contact me 💠</a> <a href="/attributions/">Attributions 💠</a>
+            <a href="/privacy/"> Data & privacy</a>
+            <br />
+            <br />Proudly coded in
+            <a target="_blank" href="https://atom.io/">Atom</a> and independently published by
+            <a target="_blank" href="https://en.wikipedia.org/wiki/Intensive_pronoun">myself</a>
+            <br />Powered by
+            <a target="_blank" href="https://jekyllrb.com/">Jekyll</a> and
+            <a target="_blank" href="https://rubygems.org/">RubyGems</a>
+            <br />
+            <br />&copy;2022 <a target="_blank" href="https://en.wikipedia.org/wiki/Bokeh">Bokemia</a>
+        </div><!-- .site-info -->
+
+        <a href="#page" class="arrow-up" title="Back to Top"><span class="screen-reader-text">Back to the top</span></a>
+
+    </div><!-- .inner -->
+</footer><!-- .site-footer -->
+
+    </div><!-- .site -->
+
+    
+    <!-- Javascript Assets -->
+    <script src="/assets/js/jquery-3.2.1.min.js"></script>
+    <script src="/assets/js/plugins.js"></script>
+    <script src="/assets/js/custom.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.27.0/components/prism-core.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.27.0/plugins/autoloader/prism-autoloader.min.js"></script>
+
+</body>
+
+</html>
