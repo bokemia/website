@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator>
-  <link href="http://localhost:4000/author/alexandre/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-06-16T08:12:36-04:00</updated>
-  <id>http://localhost:4000/author/alexandre/feed.xml</id>
+  <link href="/author/alexandre/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2022-06-16T08:32:37-04:00</updated>
+  <id>/author/alexandre/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Deployment</title>
-      <link href="http://localhost:4000/post005" rel="alternate" type="text/html" title="Deployment" />
+      <link href="/post005" rel="alternate" type="text/html" title="Deployment" />
       <published>2022-04-08T00:00:00-04:00</published>
       <updated>2022-04-08T00:00:00-04:00</updated>
-      <id>http://localhost:4000/post005</id>
-      <content type="html" xml:base="http://localhost:4000/post005">&lt;p&gt;Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I quickly learned that a website’s build could be hosted for free on &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/&quot;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt; and the advantages of doing so over the traditional method of renting a server and deploying updates manually.&lt;/p&gt;
+      <id>/post005</id>
+      <content type="html" xml:base="/post005">&lt;p&gt;Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I quickly learned that a website’s build could be hosted for free on &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/&quot;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt; and the advantages of doing so over the traditional method of renting a server and deploying updates manually.&lt;/p&gt;
 
 &lt;p&gt;The main downside of the latter option, quite simply, is cost. While not tremendously expensive, we’re still talking about around $120 for the SSL Certificate alone plus $80 for the rental itself. That’s &lt;em&gt;per year&lt;/em&gt;, every year. Also, updates and new content to the site are either handled by FTP or through third-party applications, none of which I like using. On the other hand, hosting on GitHub (or similar venues) is free and pairing it with a service like &lt;a target=&quot;_blank&quot; href=&quot;https://netlify.com/&quot;&gt;&lt;strong&gt;Netlify&lt;/strong&gt;&lt;/a&gt; (which is also free) enables instantaneous, auto-deployment of any new content that’s pushed to the repository. That can be done directly from a command line or simply by dragging new files to the Git upload panel.&lt;/p&gt;
 
@@ -85,11 +85,11 @@
   
     <entry>
       <title type="html">Final code</title>
-      <link href="http://localhost:4000/post004" rel="alternate" type="text/html" title="Final code" />
+      <link href="/post004" rel="alternate" type="text/html" title="Final code" />
       <published>2022-04-07T00:00:00-04:00</published>
       <updated>2022-04-07T00:00:00-04:00</updated>
-      <id>http://localhost:4000/post004</id>
-      <content type="html" xml:base="http://localhost:4000/post004">&lt;p&gt;As I’m wrapping and cleaning what appears to be final code, I wanted to review the personal objectives that I had set for myself and by doing so, making sure I’ve adhered to them as best as I could throughout this whole process.&lt;/p&gt;
+      <id>/post004</id>
+      <content type="html" xml:base="/post004">&lt;p&gt;As I’m wrapping and cleaning what appears to be final code, I wanted to review the personal objectives that I had set for myself and by doing so, making sure I’ve adhered to them as best as I could throughout this whole process.&lt;/p&gt;
 
 &lt;h2 id=&quot;features-and-goals&quot;&gt;Features and goals&lt;/h2&gt;
 
@@ -160,11 +160,11 @@
   
     <entry>
       <title type="html">Courtesy delivery</title>
-      <link href="http://localhost:4000/post003" rel="alternate" type="text/html" title="Courtesy delivery" />
+      <link href="/post003" rel="alternate" type="text/html" title="Courtesy delivery" />
       <published>2022-04-06T00:00:00-04:00</published>
       <updated>2022-04-06T00:00:00-04:00</updated>
-      <id>http://localhost:4000/post003</id>
-      <content type="html" xml:base="http://localhost:4000/post003">&lt;p&gt;To me, the single most important principle a website needs to comply with is courtesy delivery. When a page is flashing ads about discounted crap I neither want or need, or starts asking me questions, then I couldn’t care less about how pretty it looks. What I do appreciate is a page that’s as inviting as it is functional. The flow is mightier than the show. Or something like that. I guess what I’m trying to convey is that design is only one feature. The code behind any page—although invisible in nature—is ultimately the main gate that will either please or repel you.&lt;/p&gt;
+      <id>/post003</id>
+      <content type="html" xml:base="/post003">&lt;p&gt;To me, the single most important principle a website needs to comply with is courtesy delivery. When a page is flashing ads about discounted crap I neither want or need, or starts asking me questions, then I couldn’t care less about how pretty it looks. What I do appreciate is a page that’s as inviting as it is functional. The flow is mightier than the show. Or something like that. I guess what I’m trying to convey is that design is only one feature. The code behind any page—although invisible in nature—is ultimately the main gate that will either please or repel you.&lt;/p&gt;
 
 &lt;p&gt;So when I decided to write this site myself, I knew two things. First, that it would be a heck of a challenge considering my lack of experience. And second, that it would have to adhere to the courtesy delivery principle. Over the last few weeks, I’ve tried to implement as many reader-friendly, no-bullshit items as I could think of.&lt;/p&gt;
 
@@ -225,11 +225,11 @@
   
     <entry>
       <title type="html">No cookies</title>
-      <link href="http://localhost:4000/post002" rel="alternate" type="text/html" title="No cookies" />
+      <link href="/post002" rel="alternate" type="text/html" title="No cookies" />
       <published>2022-04-05T00:00:00-04:00</published>
       <updated>2022-04-05T00:00:00-04:00</updated>
-      <id>http://localhost:4000/post002</id>
-      <content type="html" xml:base="http://localhost:4000/post002">&lt;p&gt;Today, I’d like to share my intention of not allowing cookies of any kind on my site and here’s the reasoning behind it.&lt;/p&gt;
+      <id>/post002</id>
+      <content type="html" xml:base="/post002">&lt;p&gt;Today, I’d like to share my intention of not allowing cookies of any kind on my site and here’s the reasoning behind it.&lt;/p&gt;
 
 &lt;p&gt;Now, cookies aren’t inherently bad and usually require the user’s permission to function properly anyway, if at all—by storing an identifier within the browser’s cache—so I won’t try to convince anyone that they should avoid them like the plague. In other words, in many cases they are useful.&lt;/p&gt;
 
@@ -291,11 +291,11 @@
   
     <entry>
       <title type="html">A new beginning</title>
-      <link href="http://localhost:4000/post001" rel="alternate" type="text/html" title="A new beginning" />
+      <link href="/post001" rel="alternate" type="text/html" title="A new beginning" />
       <published>2022-04-04T00:00:00-04:00</published>
       <updated>2022-04-04T00:00:00-04:00</updated>
-      <id>http://localhost:4000/post001</id>
-      <content type="html" xml:base="http://localhost:4000/post001">&lt;p&gt;Hi and welcome to the first entry in what I’m hoping will become a series of posts detailing the creation of the very website you are currently visiting.&lt;/p&gt;
+      <id>/post001</id>
+      <content type="html" xml:base="/post001">&lt;p&gt;Hi and welcome to the first entry in what I’m hoping will become a series of posts detailing the creation of the very website you are currently visiting.&lt;/p&gt;
 
 &lt;p&gt;A while ago I started taking online courses to teach myself how to code—mainly in HTML, JavaScript and CSS—and while it’s been a great deal of fun and a good exercise in acquiring the fundamentals, I thought now was the time to use what I’d learned and try to write and upload my own website on a server somewhere. Probably in Florida. Or maybe elsewhere, what do I know?&lt;/p&gt;
 
