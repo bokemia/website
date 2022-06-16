@@ -8,28 +8,30 @@
 
     
         <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Source deployment | Bokemia</title>
+<title>Deployment | Bokemia</title>
 <meta name="generator" content="Jekyll v4.1.1" />
-<meta property="og:title" content="Source deployment" />
+<meta property="og:title" content="Deployment" />
 <meta name="author" content="Alexandre Giroux" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I learned that a website’s build could be hosted easily on GitHub and read about the advantages of doing so over the traditional method of renting a server and deploying it from there." />
-<meta property="og:description" content="Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I learned that a website’s build could be hosted easily on GitHub and read about the advantages of doing so over the traditional method of renting a server and deploying it from there." />
+<meta name="description" content="Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I quickly learned that a website’s build could be hosted for free on GitHub and the advantages of doing so over the traditional method of renting a server and deploying updates manually." />
+<meta property="og:description" content="Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I quickly learned that a website’s build could be hosted for free on GitHub and the advantages of doing so over the traditional method of renting a server and deploying updates manually." />
+<link rel="canonical" href="http://localhost:4000/post005" />
+<meta property="og:url" content="http://localhost:4000/post005" />
 <meta property="og:site_name" content="Bokemia" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2022-04-08T00:00:00-04:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Source deployment" />
+<meta property="twitter:title" content="Deployment" />
 <meta name="twitter:site" content="@" />
 <meta name="twitter:creator" content="@Alexandre Giroux" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Alexandre Giroux","url":"bokemia.com"},"dateModified":"2022-04-08T00:00:00-04:00","datePublished":"2022-04-08T00:00:00-04:00","description":"Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I learned that a website’s build could be hosted easily on GitHub and read about the advantages of doing so over the traditional method of renting a server and deploying it from there.","headline":"Source deployment","mainEntityOfPage":{"@type":"WebPage","@id":"/post005"},"url":"/post005"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Alexandre Giroux","url":"bokemia.com"},"dateModified":"2022-04-08T00:00:00-04:00","datePublished":"2022-04-08T00:00:00-04:00","description":"Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I quickly learned that a website’s build could be hosted for free on GitHub and the advantages of doing so over the traditional method of renting a server and deploying updates manually.","headline":"Deployment","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/post005"},"url":"http://localhost:4000/post005"}</script>
 <!-- End Jekyll SEO tag -->
 
     
 
     <!-- Site Favicon -->
-    <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/png" />
+    <link rel="shortcut icon" href="http://localhost:4000/assets/images/favicon.ico" type="image/png" />
 
     <!-- Font Embed Code -->
     <link href="//fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic%7CPlayfair+Display:400,400italic,700,700italic" rel="stylesheet" type="text/css" />
@@ -98,7 +100,7 @@
                         </div><!-- .tag-links -->
                         
 
-                        <h1 class="post-title">Source deployment</h1>
+                        <h1 class="post-title">Deployment</h1>
 
                         <div class="post-meta">
                             <span class="post-meta-wrap">
@@ -130,13 +132,11 @@
 
             <div class="inner">
             <div class="post-content">
-                <p>Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I learned that a website’s build could be hosted easily on <a target="_blank" href="https://github.com/"><strong>GitHub</strong></a> and read about the advantages of doing so over the traditional method of renting a server and deploying it from there.</p>
+                <p>Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I quickly learned that a website’s build could be hosted for free on <a target="_blank" href="https://github.com/"><strong>GitHub</strong></a> and the advantages of doing so over the traditional method of renting a server and deploying updates manually.</p>
 
-<p>The main downside to the long-established option, quite simply, is cost. While not tremendously expensive, we’re still talking about around $120 for the SSL Certificate alone plus $80 for the rental itself. That’s per year, <em>every</em> year. Also, updates and new content to the site are either handled by FTP or through third-party applications, none of which I like using. On the other hand, hosting on GitHub (or similar venues) is free and pairing it with a service like <a target="_blank" href="https://netlify.com/"><strong>Netlify</strong></a> (which is also free) enables instantaneous, auto-deployment of any new content that’s pushed to the repository. That can be done directly from a command line or simply by dragging files around. And the best part? Netlify provides a free SSL Certificate in the process!</p>
+<p>The main downside of the latter option, quite simply, is cost. While not tremendously expensive, we’re still talking about around $120 for the SSL Certificate alone plus $80 for the rental itself. That’s <em>per year</em>, every year. Also, updates and new content to the site are either handled by FTP or through third-party applications, none of which I like using. On the other hand, hosting on GitHub (or similar venues) is free and pairing it with a service like <a target="_blank" href="https://netlify.com/"><strong>Netlify</strong></a> (which is also free) enables instantaneous, auto-deployment of any new content that’s pushed to the repository. That can be done directly from a command line or simply by dragging new files to the Git upload panel.</p>
 
 <p>It became a no-brainer overnight; I opted to host and deploy the site that way. The learning curve wasn’t too steep but I did get stumped on a few things. For instance, the distinction between my domain registrar’s DNS nameservers and Netlify’s own DNS system wasn’t obvious to me at first glance and GitHub’s interface felt a little intimidating for a new user. But it all worked out in the end and I am satisfied with the end result, from both production and performance standpoints.</p>
-
-<p>Now that this undertaking is almost complete, I shall divert my attention back to where it belongs: dusting off my old films and assembling a portfolio.</p>
 
 <p><br /></p>
 <div style="text-align: center"><img src="/assets/images/endpoint.png" /></div>
@@ -216,7 +216,7 @@
     <h2 class="widget-title">Tags</h2>
     <div class="tagcloud">
         
-        <a class="button" href='https://bokemia.com/tag/css/'>CSS
+        <a class="button" href='//localhost:4000/tag/css/'>CSS
             <span aria-hidden="true">
                 <span class="line left"></span>
                 <span class="line top"></span>
@@ -225,7 +225,7 @@
             </span>
         </a>
         
-        <a class="button" href='https://bokemia.com/tag/development/'>Development
+        <a class="button" href='//localhost:4000/tag/development/'>Development
             <span aria-hidden="true">
                 <span class="line left"></span>
                 <span class="line top"></span>
@@ -234,7 +234,7 @@
             </span>
         </a>
         
-        <a class="button" href='https://bokemia.com/tag/html/'>HTML
+        <a class="button" href='//localhost:4000/tag/html/'>HTML
             <span aria-hidden="true">
                 <span class="line left"></span>
                 <span class="line top"></span>
@@ -243,7 +243,7 @@
             </span>
         </a>
         
-        <a class="button" href='https://bokemia.com/tag/javascript/'>JavaScript
+        <a class="button" href='//localhost:4000/tag/javascript/'>JavaScript
             <span aria-hidden="true">
                 <span class="line left"></span>
                 <span class="line top"></span>
@@ -252,7 +252,7 @@
             </span>
         </a>
         
-        <a class="button" href='https://bokemia.com/tag/jekyll/'>Jekyll
+        <a class="button" href='//localhost:4000/tag/jekyll/'>Jekyll
             <span aria-hidden="true">
                 <span class="line left"></span>
                 <span class="line top"></span>
@@ -261,7 +261,7 @@
             </span>
         </a>
         
-        <a class="button" href='https://bokemia.com/tag/programming/'>Programming
+        <a class="button" href='//localhost:4000/tag/programming/'>Programming
             <span aria-hidden="true">
                 <span class="line left"></span>
                 <span class="line top"></span>

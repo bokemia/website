@@ -3,29 +3,27 @@
   <channel>
     <title>Bokemia</title>
     <description>As a lightweight, curated look at my past work and current projects, Bokemia acts as both a portfolio and journal.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Apr 2022 17:07:13 -0400</pubDate>
-    <lastBuildDate>Sat, 02 Apr 2022 17:07:13 -0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 16 Jun 2022 07:54:49 -0400</pubDate>
+    <lastBuildDate>Thu, 16 Jun 2022 07:54:49 -0400</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
-        <title>Source deployment</title>
-        <description>&lt;p&gt;Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I learned that a website’s build could be hosted easily on &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/&quot;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt; and read about the advantages of doing so over the traditional method of renting a server and deploying it from there.&lt;/p&gt;
+        <title>Deployment</title>
+        <description>&lt;p&gt;Up until recently, my knowledge of hosting and deploying a website was next to nonexistent. My initial research turned out to be fruitful however, as I quickly learned that a website’s build could be hosted for free on &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/&quot;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt; and the advantages of doing so over the traditional method of renting a server and deploying updates manually.&lt;/p&gt;
 
-&lt;p&gt;The main downside to the long-established option, quite simply, is cost. While not tremendously expensive, we’re still talking about around $120 for the SSL Certificate alone plus $80 for the rental itself. That’s per year, &lt;em&gt;every&lt;/em&gt; year. Also, updates and new content to the site are either handled by FTP or through third-party applications, none of which I like using. On the other hand, hosting on GitHub (or similar venues) is free and pairing it with a service like &lt;a target=&quot;_blank&quot; href=&quot;https://netlify.com/&quot;&gt;&lt;strong&gt;Netlify&lt;/strong&gt;&lt;/a&gt; (which is also free) enables instantaneous, auto-deployment of any new content that’s pushed to the repository. That can be done directly from a command line or simply by dragging files around. And the best part? Netlify provides a free SSL Certificate in the process!&lt;/p&gt;
+&lt;p&gt;The main downside of the latter option, quite simply, is cost. While not tremendously expensive, we’re still talking about around $120 for the SSL Certificate alone plus $80 for the rental itself. That’s &lt;em&gt;per year&lt;/em&gt;, every year. Also, updates and new content to the site are either handled by FTP or through third-party applications, none of which I like using. On the other hand, hosting on GitHub (or similar venues) is free and pairing it with a service like &lt;a target=&quot;_blank&quot; href=&quot;https://netlify.com/&quot;&gt;&lt;strong&gt;Netlify&lt;/strong&gt;&lt;/a&gt; (which is also free) enables instantaneous, auto-deployment of any new content that’s pushed to the repository. That can be done directly from a command line or simply by dragging new files to the Git upload panel.&lt;/p&gt;
 
 &lt;p&gt;It became a no-brainer overnight; I opted to host and deploy the site that way. The learning curve wasn’t too steep but I did get stumped on a few things. For instance, the distinction between my domain registrar’s DNS nameservers and Netlify’s own DNS system wasn’t obvious to me at first glance and GitHub’s interface felt a little intimidating for a new user. But it all worked out in the end and I am satisfied with the end result, from both production and performance standpoints.&lt;/p&gt;
-
-&lt;p&gt;Now that this undertaking is almost complete, I shall divert my attention back to where it belongs: dusting off my old films and assembling a portfolio.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/images/endpoint.png&quot; /&gt;&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Apr 2022 00:00:00 -0400</pubDate>
-        <link>/post005</link>
-        <guid isPermaLink="true">/post005</guid>
+        <link>http://localhost:4000/post005</link>
+        <guid isPermaLink="true">http://localhost:4000/post005</guid>
         
         <category>Programming</category>
         
@@ -66,7 +64,7 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://atom.io/&quot;&gt;&lt;strong&gt;Atom&lt;/strong&gt;&lt;/a&gt;: Simply the best editor in the history of mankind. I use it to write every single line of code on this site.&lt;/li&gt;
   &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://jekyllrb.com/&quot;&gt;&lt;strong&gt;Jekyll&lt;/strong&gt;&lt;/a&gt;: A command line program that reads Markdown text files and renders them into static web pages. It doesn’t use databases at all and loads content from YAML and CSS instead, producing much cleaner code as a result. And databases suck anyways.&lt;/li&gt;
-  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://ruby-lang.org/en/&quot;&gt;&lt;strong&gt;Ruby&lt;/strong&gt;&lt;/a&gt;: An object-oriented programming language which supports multiple paradigms. Its functional and simple nature made it a good fit for my limited set of skills.&lt;/li&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.ruby-lang.org/en/&quot;&gt;&lt;strong&gt;Ruby&lt;/strong&gt;&lt;/a&gt;: An object-oriented programming language which supports multiple paradigms. Its functional and simple nature made it a good fit for my limited set of skills.&lt;/li&gt;
   &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://rubygems.org/&quot;&gt;&lt;strong&gt;RubyGems&lt;/strong&gt;&lt;/a&gt;: A package manager that provides a standard format for distributing libraries and applications built in Ruby. This is what powers Jekyll and makes it all work.&lt;/li&gt;
   &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://handlebarsjs.com/installation/&quot;&gt;&lt;strong&gt;Handlebars&lt;/strong&gt;&lt;/a&gt;: An export tool that lets you build semantic templates effectively. It is compatible with Jekyll and allows HTML layouts to be precompiled and included as JavaScript code.&lt;/li&gt;
 &lt;/ul&gt;
@@ -78,8 +76,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Apr 2022 00:00:00 -0400</pubDate>
-        <link>/post004</link>
-        <guid isPermaLink="true">/post004</guid>
+        <link>http://localhost:4000/post004</link>
+        <guid isPermaLink="true">http://localhost:4000/post004</guid>
         
         <category>Programming</category>
         
@@ -113,7 +111,7 @@
   &lt;li&gt;A useable, concise footer&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I’m also learning to write in &lt;a target=&quot;_blank&quot; href=&quot;https://atom.io/&quot;&gt;&lt;strong&gt;Atom&lt;/strong&gt;&lt;/a&gt; for the first time and so far it works extremely well. It’s a fantastic editor specifically designed for writing code and publishing it.&lt;/p&gt;
+&lt;p&gt;I’m also learning to write in &lt;a target=&quot;_blank&quot; href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt; for the first time and so far it works extremely well. It’s a fantastic editor specifically designed for writing code and publishing it.&lt;/p&gt;
 
 &lt;p&gt;Next time, I believe I’ll be ready to wrap up my codebase and begin the actual site production.&lt;/p&gt;
 
@@ -122,8 +120,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Apr 2022 00:00:00 -0400</pubDate>
-        <link>/post003</link>
-        <guid isPermaLink="true">/post003</guid>
+        <link>http://localhost:4000/post003</link>
+        <guid isPermaLink="true">http://localhost:4000/post003</guid>
         
         <category>Programming</category>
         
@@ -167,8 +165,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Apr 2022 00:00:00 -0400</pubDate>
-        <link>/post002</link>
-        <guid isPermaLink="true">/post002</guid>
+        <link>http://localhost:4000/post002</link>
+        <guid isPermaLink="true">http://localhost:4000/post002</guid>
         
         <category>Programming</category>
         
@@ -195,7 +193,7 @@
 
 &lt;h2 id=&quot;dont-we-all-have-to-start-somewhere&quot;&gt;Don’t we all have to start somewhere?&lt;/h2&gt;
 
-&lt;p&gt;Right now, I’m barely getting started on the project. Current tasks include writing an index, setting up page navigation and customizing the &lt;strong&gt;&amp;lt;head&amp;gt;&lt;/strong&gt; and &lt;strong&gt;&amp;lt;body&amp;gt;&lt;/strong&gt; sections with specific stylesheets for tables and code blocks, such as the &lt;a target=&quot;_blank&quot; href=&quot;https://cdnjs.com/libraries/prism&quot;&gt;&lt;strong&gt;Prism syntax highlighter&lt;/strong&gt;&lt;/a&gt;. Below is an excerpt that shows how I extended my CSS with scripts that are hosted externally.&lt;/p&gt;
+&lt;p&gt;Right now, I’m barely getting started on the project. Current tasks include writing an index, setting up page navigation and customizing the &lt;strong&gt;&amp;lt;head&amp;gt;&lt;/strong&gt; and &lt;strong&gt;&amp;lt;body&amp;gt;&lt;/strong&gt; sections with specific stylesheets for tables and code blocks, such as the &lt;a target=&quot;_blank&quot; href=&quot;https://cdnjs.com/libraries/prism&quot;&gt;Prism syntax highlighter&lt;/a&gt;. Below is an excerpt that shows how I extended my CSS with scripts that are hosted externally.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;!-- CSS Styles --&amp;gt;
 &amp;lt;link href=&quot;/assets/css/style.css&quot; rel=&quot;stylesheet&quot;&amp;gt;
@@ -218,8 +216,8 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Apr 2022 00:00:00 -0400</pubDate>
-        <link>/post001</link>
-        <guid isPermaLink="true">/post001</guid>
+        <link>http://localhost:4000/post001</link>
+        <guid isPermaLink="true">http://localhost:4000/post001</guid>
         
         <category>Programming</category>
         
