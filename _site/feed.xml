@@ -5,9 +5,9 @@
     <description>As a lightweight, curated look at my past work and current projects, Bokemia acts as both a portfolio and journal.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Aug 2022 09:48:15 -0400</pubDate>
-    <lastBuildDate>Sat, 13 Aug 2022 09:48:15 -0400</lastBuildDate>
-    <generator>Jekyll v4.1.1</generator>
+    <pubDate>Sat, 07 Sep 2024 14:26:41 -0400</pubDate>
+    <lastBuildDate>Sat, 07 Sep 2024 14:26:41 -0400</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
     
       <item>
         <title>Deployment</title>
@@ -62,12 +62,13 @@
 &lt;p&gt;Also, here is the collection of software packages I’m using to write and maintain the site. I’ve added a short description underneath each one in case you’re not already familiar with them. They’re all awesome, open-source and free to use too!&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://atom.io/&quot;&gt;&lt;strong&gt;Atom&lt;/strong&gt;&lt;/a&gt;: Simply the best editor in the history of mankind. I use it to write every single line of code on this site.&lt;/li&gt;
   &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://jekyllrb.com/&quot;&gt;&lt;strong&gt;Jekyll&lt;/strong&gt;&lt;/a&gt;: A command line program that reads Markdown text files and renders them into static web pages. It doesn’t use databases at all and loads content from YAML and CSS instead, producing much cleaner code as a result. And databases suck anyways.&lt;/li&gt;
   &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.ruby-lang.org/en/&quot;&gt;&lt;strong&gt;Ruby&lt;/strong&gt;&lt;/a&gt;: An object-oriented programming language which supports multiple paradigms. Its functional and simple nature made it a good fit for my limited set of skills.&lt;/li&gt;
   &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://rubygems.org/&quot;&gt;&lt;strong&gt;RubyGems&lt;/strong&gt;&lt;/a&gt;: A package manager that provides a standard format for distributing libraries and applications built in Ruby. This is what powers Jekyll and makes it all work.&lt;/li&gt;
   &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://handlebarsjs.com/installation/&quot;&gt;&lt;strong&gt;Handlebars&lt;/strong&gt;&lt;/a&gt;: An export tool that lets you build semantic templates effectively. It is compatible with Jekyll and allows HTML layouts to be precompiled and included as JavaScript code.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;And if you’re curious to learn a bit more, here is a list I’ve compiled of all the &lt;a href=&quot;/attributions/&quot;&gt;&lt;strong&gt;source code&lt;/strong&gt;&lt;/a&gt; I’m currently using under license.&lt;/p&gt;
 
 &lt;p&gt;This is a really fun project for me and I’m looking forward to adding my portfolio and updating the site in the coming months.&lt;/p&gt;
 
@@ -111,7 +112,7 @@
   &lt;li&gt;A useable, concise footer&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I’m also learning to write in &lt;a target=&quot;_blank&quot; href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt; for the first time and so far it works extremely well. It’s a fantastic editor specifically designed for writing code and publishing it.&lt;/p&gt;
+&lt;p&gt;I’m also learning to write more efficiently in the meantime by using annotations and margin comments where I deem them necessary.&lt;/p&gt;
 
 &lt;p&gt;Next time, I believe I’ll be ready to wrap up my codebase and begin the actual site production.&lt;/p&gt;
 
